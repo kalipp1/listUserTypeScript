@@ -1,0 +1,22 @@
+{
+  "name": "listuserts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.13.1",
+    "inquirer": "^8.2.4",
+    "nodemon": "^3.1.9",
+    "ts-node": "^8.10.2"
+  },
+  "dependencies": {
+    "consola": "^2.15.3"
+  }
+}
